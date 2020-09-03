@@ -1,4 +1,4 @@
 ---
 title: "YOUR-TITLE"
-date: YYYY-MM-DD
+date: 2020-09-03
 ---
