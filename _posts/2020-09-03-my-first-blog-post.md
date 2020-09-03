@@ -1,1 +1,4 @@
-This is a new file.
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
